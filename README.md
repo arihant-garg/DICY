@@ -1,1 +1,1 @@
-# DICY
+# Dice Game
